@@ -1,0 +1,1 @@
+!function(){define("libs/Popin",[],function(){function n(){this.create=function(){console.info("popin créé")},this.open=function(){alert("popin ouvert")},this.close=function(){alert("popin fermé")}}return n})}();

@@ -1,0 +1,12 @@
+{
+  "author": "Matthieu Larcher",
+  "name": "ringabell-require-build-tool",
+  "description": "A simple tool for javascript concatenation and minification that handles the requirejs dependencies",
+  "version": "0.1.0",
+  "engines": {
+    "node": "~0.8.14"
+  },
+  "dependencies": {
+    "requirejs": "~2.1.2"
+  }
+}

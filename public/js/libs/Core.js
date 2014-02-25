@@ -1,0 +1,1 @@
+!function(){define("libs/Core",["jquery"],function(){function n(){var n={};this.getData=function(){return n},this.setData=function(i){n=i},this.init=function(){console.log("core init","libs/Popin"),require(["libs/Popin"],function(n){window.Ptah.Popin=n,console.log("require callback",n);var i=new n("toto");i.create()})}}return n})}();
